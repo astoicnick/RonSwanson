@@ -44,4 +44,9 @@ height: 500px;
     transition: all 0.2s linear;
     text-decoration: none;
     background-color: rgba(82, 86, 146,.5);
+html {
+    background-color: #3ab795;
+}
+#perry {
+    color: #d0ede5;
 }
