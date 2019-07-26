@@ -1,0 +1,47 @@
+/* $primary: #3ab795;
+$secondary: #d0ede5;
+$tertiary: #56ffd2; */
+
+body {
+    background-color: #3ab795;
+}
+.background514 {
+background-image: url("http://swansonquotes.com/wp-content/uploads/s05-ep01-meetmeat-1000x500.jpg");
+background-size: 100%;
+z-index: 0;
+position: relative;
+min-height: 100vh;
+}
+.infoabout {
+height: 500px;
+}
+.HomeButton {
+    position: relative;
+    z-index: 3;
+    color: #d0ede5;
+    font-size: 30px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+    padding: .1% .1%;
+    text-transform: uppercase;
+    transition: all 0.2s linear;
+    text-decoration: none;
+    background-color: blue;
+    text-align: center;
+    margin: 0em 0em 0em 0em;
+}
+.HomeButton:hover {
+    position: relative;
+    z-index: 3;
+    color: white;
+    font-size: 30px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: .1% .1%;
+    text-transform: uppercase;
+    transition: all 0.2s linear;
+    text-decoration: none;
+    background-color: rgba(82, 86, 146,.5);
+}
